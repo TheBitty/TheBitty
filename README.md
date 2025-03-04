@@ -70,7 +70,7 @@
 │ ◼ GopherStrike (https://github.com/TheBitty/GopherStrike)                     │
 │   Low-footprint network penetration testing toolkit written in Go             │
 │                                                                               │
-│ ◼ Pythmap (https://github.com/TheBitty/Pythmap)                              │
+│ ◼ Pythmap (https://github.com/TheBitty/Pythmap)                               │
 │   Advanced Python-based network mapper with custom packet crafting capability │
 └───────────────────────────────────────────────────────────────────────────────┘
 ```

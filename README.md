@@ -23,11 +23,11 @@
 
 ```
 ┌──────────────────────────────────────┐
-│ SYSTEM INFORMATION                    │
+│ SYSTEM INFORMATION                   │
 ├──────────────────────────────────────┤
 │ ALIAS: TheBitty                      │
-│ FOCUS: Cybersecurity / Binary Analysis│
-│ OS: Arch Linux / macOS               │
+│ FOCUS: Cybersecurity                 │
+│ OS: Arch / macOS                     │
 │ ENVIRONMENT: Terminal-based workflow │
 │ STATUS: Building security tools      │
 └──────────────────────────────────────┘
@@ -35,16 +35,16 @@
 
 ```
 ┌──────────────────────────────────────┐
-│ TECHNICAL LOADOUT                     │
+│ TECHNICAL LOADOUT                    │
 ├──────────────────────────────────────┤
-│ ANALYSIS TOOLS:                       │
+│ ANALYSIS TOOLS:                      │
 │ ◼ IDA Pro  ◼ Ghidra  ◼ Binary Ninja  │
 │                                      │
 │ LANGUAGES:                           │
-│ ◼ C/C++   ◼ Go   ◼ Python   ◼ ASM   │
+│ ◼ C/C++/C#   ◼ Go   ◼ Python   ◼ ASM │
 │                                      │
 │ SYSTEMS:                             │
-│ ◼ Linux   ◼ ARCH   ◼ macOS          │
+│ ◼ Linux      ◼ macOS                 │
 └──────────────────────────────────────┘
 ```
 
@@ -80,7 +80,7 @@
 │ SECURITY EXPERTISE                                                            │
 ├───────────────────────────────────────────────────────────────────────────────┤
 │ ▣ Reverse Engineering    ▣ Binary Analysis     ▣ Vulnerability Research       │
-│ ▣ Exploit Development    ▣ Network Security    ▣ Low-Level Systems           │
+│ ▣ Exploit Development    ▣ Network Security    ▣ Low-Level Systems            │
 └───────────────────────────────────────────────────────────────────────────────┘
 ```
 

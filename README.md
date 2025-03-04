@@ -42,7 +42,7 @@
 │                                      │
 │ LANGUAGES:                           │
 │ ◼ C/C++/C#   ◼ Go   ◼ Python   ◼ ASM │
-│                                      │
+│ ◼ Java                               │
 │ SYSTEMS:                             │
 │ ◼ Linux      ◼ macOS                 │
 └──────────────────────────────────────┘

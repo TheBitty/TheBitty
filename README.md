@@ -1,76 +1,103 @@
-<!-- Professional Cyberpunk Noir GitHub Profile -->
+<!-- Terminal-Style Cyberpunk GitHub Profile -->
 
 <div align="center">
   
-  <!-- Simple Bitty Header -->
-  # B I T T Y
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/CyberSec-Specialist-8A2BE2?style=flat-square&logoColor=white" alt="CyberSec" />
-    <img src="https://img.shields.io/badge/OS-Arch/macOS-FF6347?style=flat-square&logoColor=white" alt="System" />
-    <img src="https://img.shields.io/badge/Focus-Binary_Analysis-00FF00?style=flat-square&logoColor=white" alt="Focus" />
-  </p>
-  
-  <p align="center">
-    <i>Computer Science student specializing in cybersecurity and low-level system analysis</i>
-  </p>
-  
+```
+ ▄▄▄▄    ██▓▄▄▄█████▓▄▄▄█████▓▓██   ██▓
+▓█████▄ ▓██▒▓  ██▒ ▓▒▓  ██▒ ▓▒ ▒██  ██▒
+▒██▒ ▄██▒██▒▒ ▓██░ ▒░▒ ▓██░ ▒░  ▒██ ██░
+▒██░█▀  ░██░░ ▓██▓ ░ ░ ▓██▓ ░   ░ ▐██▓░
+░▓█  ▀█▓░██░  ▒██▒ ░   ▒██▒ ░   ░ ██▒▓░
+░▒▓███▀▒░▓    ▒ ░░     ▒ ░░      ██▒▒▒ 
+▒░▒   ░  ▒ ░    ░        ░      ▓██ ░▒░ 
+ ░    ░  ▒ ░  ░        ░        ▒ ▒ ░░  
+ ░       ░                      ░ ░     
+      ░                         ░ ░     
+```
+
 </div>
 
----
-
-### Technical Focus
+<table border="0">
+<tr>
+<td width="60%">
 
 ```
-Binary analysis • Reverse engineering • Vulnerability research
-System-level programming • Network security • Exploit development
+┌──────────────────────────────────────┐
+│ SYSTEM INFORMATION                    │
+├──────────────────────────────────────┤
+│ ALIAS: TheBitty                      │
+│ FOCUS: Cybersecurity / Binary Analysis│
+│ OS: Arch Linux / macOS               │
+│ ENVIRONMENT: Terminal-based workflow │
+│ STATUS: Building security tools      │
+└──────────────────────────────────────┘
 ```
 
-### Core Technologies
-
-```python
-# Primary toolkit:
-tech_stack = {
-    "analysis": ["IDA Pro", "Ghidra", "Binary Ninja"],
-    "systems": ["Linux", "ARCH", "macOS"],
-    "languages": ["C/C++", "Go", "Python", "Assembly"],
-    "security": ["Vulnerability Assessment", "Exploit Development", "Binary Analysis"],
-}
+```
+┌──────────────────────────────────────┐
+│ TECHNICAL LOADOUT                     │
+├──────────────────────────────────────┤
+│ ANALYSIS TOOLS:                       │
+│ ◼ IDA Pro  ◼ Ghidra  ◼ Binary Ninja  │
+│                                      │
+│ LANGUAGES:                           │
+│ ◼ C/C++   ◼ Go   ◼ Python   ◼ ASM   │
+│                                      │
+│ SYSTEMS:                             │
+│ ◼ Linux   ◼ ARCH   ◼ macOS          │
+└──────────────────────────────────────┘
 ```
 
----
-
-### Current Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [GopherStrike](https://github.com/TheBitty/GopherStrike) | Security tool developed in Go for network penetration testing with focus on minimizing detection footprint | Go, Linux |
-| [Pythmap](https://github.com/TheBitty/Pythmap) | Python-based network mapping utility with custom packet crafting and analysis features | Python, C extensions |
-
----
-
-### Development Environment
-
-```bash
-# Primary toolchain
-$ uname -a
-Linux arch 6.6.6-arch1-1 #1 SMP PREEMPT_DYNAMIC [...] x86_64 GNU/Linux
-
-$ which ida
-/opt/ida/ida64
-
-$ echo $SHELL
-/bin/zsh
-```
-
----
+</td>
+<td width="40%">
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheBitty&show_icons=true&hide_border=true&title_color=8A2BE2&icon_color=00FF00&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
 
-<!-- Simple typing effect - more subtle and professional -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Analyzing+binaries+and+securing+systems;Developing+security-focused+tools;Researching+vulnerabilities;Building+robust+defenses)](https://git.io/typing-svg)
+<br>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheBitty&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=8A2BE2&fire=FF6347&currStreakLabel=00FF00" alt="GitHub Streak" />
 </div>
 
-<!-- Subtle hidden message -->
-<!-- Contact for security research collaborations: bitty@[redacted] -->
+</td>
+</tr>
+</table>
+
+```
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ ACTIVE PROJECTS                                                               │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ◼ GopherStrike (https://github.com/TheBitty/GopherStrike)                     │
+│   Low-footprint network penetration testing toolkit written in Go             │
+│                                                                               │
+│ ◼ Pythmap (https://github.com/TheBitty/Pythmap)                              │
+│   Advanced Python-based network mapper with custom packet crafting capability │
+└───────────────────────────────────────────────────────────────────────────────┘
+```
+
+```
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ SECURITY EXPERTISE                                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ ▣ Reverse Engineering    ▣ Binary Analysis     ▣ Vulnerability Research       │
+│ ▣ Exploit Development    ▣ Network Security    ▣ Low-Level Systems           │
+└───────────────────────────────────────────────────────────────────────────────┘
+```
+
+```
+┌───────────────────────────────────────────────────────────────────────────────┐
+│ $ terminal_session                                                            │
+├───────────────────────────────────────────────────────────────────────────────┤
+│ > Analyzing binaries and securing systems                                     │
+│ > Developing low-level security tools                                         │
+│ > Researching vulnerability patterns                                          │
+│ > Building defensive cybersecurity infrastructure                             │
+└───────────────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=TheBitty&theme=radical&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+<!-- Hidden message in HTML comment that still fits the theme -->
+<!-- encrypted:contact:bitty@[redacted]:end -->

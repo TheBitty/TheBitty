@@ -36,6 +36,7 @@ I develop specialized security tools for red team operations, focusing on creati
 - **[GopherStrike](https://github.com/TheBitty/GopherStrike)** — Offensive security toolkit written in Go designed for red team operations with emphasis on evasion techniques
   
 - **[Pythmap](https://github.com/TheBitty/Pythmap)** — Custom reconnaissance tool with advanced capabilities for security assessment during red team engagements
+- **[BinaryRipper](https://github.com/TheBitty/BinaryRipper)** -- A binary fuzzer for windows application 
 
 ## Technical Focus
 

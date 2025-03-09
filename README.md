@@ -37,7 +37,7 @@ I develop specialized security tools for red team operations, focusing on creati
   
 - **[Pythmap](https://github.com/TheBitty/Pythmap)** — Custom reconnaissance tool with advanced capabilities for security assessment during red team engagements
 - **[BinaryRipper](https://github.com/TheBitty/BinaryRipper)** -- A binary fuzzer for windows application 
-
+- **[BitSrike](https://github.com/TheBitty/BitStrike)** -- A JAVA based C2 framework
 ## Technical Focus
 
 - **Offensive Tool Development** — Creating specialized software for security testing and evaluation

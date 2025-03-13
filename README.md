@@ -111,7 +111,6 @@ I develop specialized security tools for red team operations, focusing on creati
 </div>
 </td>
 </tr>
-</table>
 
 ## Development Approach
 ```

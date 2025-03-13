@@ -31,15 +31,6 @@
 
 ## Technical Stack
 ```
-████████╗███████╗ ██████╗██╗  ██╗███╗   ██╗██╗ ██████╗ █████╗ ██╗         ███████╗████████╗ █████╗  ██████╗██╗  ██╗
-╚══██╔══╝██╔════╝██╔════╝██║  ██║████╗  ██║██║██╔════╝██╔══██╗██║         ██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
-   ██║   █████╗  ██║     ███████║██╔██╗ ██║██║██║     ███████║██║         ███████╗   ██║   ███████║██║     █████╔╝ 
-   ██║   ██╔══╝  ██║     ██╔══██║██║╚██╗██║██║██║     ██╔══██║██║         ╚════██║   ██║   ██╔══██║██║     ██╔═██╗ 
-   ██║   ███████╗╚██████╗██║  ██║██║ ╚████║██║╚██████╗██║  ██║███████╗    ███████║   ██║   ██║  ██║╚██████╗██║  ██╗
-   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
-```
-
-```
 Development:  C/C++, Go, Python, Java, Assembly, Rust
 Focus:        Offensive Security Tools, Red Team Operations, Exploit Development
 ```
@@ -51,14 +42,6 @@ I develop specialized security tools for red team operations, focusing on creati
 <td width="60%">
 
 ## Current Projects
-```
-██████╗██╗   ██╗██████╗ ██████╗ ███████╗███╗   ██╗████████╗    ██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗███████╗
-██╔════╝██║   ██║██╔══██╗██╔══██╗██╔════╝████╗  ██║╚══██╔══╝    ██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝██╔════╝
-██║     ██║   ██║██████╔╝██████╔╝█████╗  ██╔██╗ ██║   ██║       ██████╔╝██████╔╝██║   ██║     ██║█████╗  ██║        ██║   ███████╗
-██║     ██║   ██║██╔══██╗██╔══██╗██╔══╝  ██║╚██╗██║   ██║       ██╔═══╝ ██╔══██╗██║   ██║██   ██║██╔══╝  ██║        ██║   ╚════██║
-╚██████╗╚██████╔╝██║  ██║██║  ██║███████╗██║ ╚████║   ██║       ██║     ██║  ██║╚██████╔╝╚█████╔╝███████╗╚██████╗   ██║   ███████║
-╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝   ╚═╝       ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝ ╚═════╝   ╚═╝   ╚══════╝
-```
 
 - **[GopherStrike](https://github.com/TheBitty/GopherStrike)** — Offensive security toolkit written in Go designed for red team operations with emphasis on evasion techniques
   
@@ -75,14 +58,6 @@ I develop specialized security tools for red team operations, focusing on creati
 - **[KairosAlgo](https://github.com/TheBitty/KairosAlgo)** — Leverages temporal mathematics to make trading decisions based on the time-decaying significance of market events
 
 ## Technical Focus
-```
-█████╗ ██████╗ ███████╗ █████╗ ███████╗     ██████╗ ███████╗    ███████╗██╗  ██╗██████╗ ███████╗██████╗ ████████╗██╗███████╗███████╗
-██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝    ██╔═══██╗██╔════╝    ██╔════╝╚██╗██╔╝██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██║██╔════╝██╔════╝
-███████║██████╔╝█████╗  ███████║███████╗    ██║   ██║█████╗      █████╗   ╚███╔╝ ██████╔╝█████╗  ██████╔╝   ██║   ██║███████╗█████╗  
-██╔══██║██╔══██╗██╔══╝  ██╔══██║╚════██║    ██║   ██║██╔══╝      ██╔══╝   ██╔██╗ ██╔═══╝ ██╔══╝  ██╔══██╗   ██║   ██║╚════██║██╔══╝  
-██║  ██║██║  ██║███████╗██║  ██║███████║    ╚██████╔╝██║         ███████╗██╔╝ ██╗██║     ███████╗██║  ██║   ██║   ██║███████║███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝     ╚═════╝ ╚═╝         ╚══════╝╚═╝  ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚══════╝╚══════╝
-```
 
 - **Offensive Tool Development** — Creating specialized software for security testing and evaluation
 - **Exploit Research** — Exploring vulnerability patterns and exploitation techniques
@@ -95,32 +70,14 @@ I develop specialized security tools for red team operations, focusing on creati
   <img src="https://github-readme-stats.vercel.app/api?username=TheBitty&show_icons=true&hide_border=true&title_color=2E4053&icon_color=5D6D7E&text_color=34495E&bg_color=F8F9F9" alt="GitHub Stats" />
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheBitty&theme=default&hide_border=true" alt="GitHub Streak" />
-
-
-```
-██████╗ ██████╗ ███╗   ███╗███╗   ███╗██╗████████╗    ███████╗████████╗██████╗ ███████╗ █████╗ ██╗  ██╗
-██╔════╝██╔═══██╗████╗ ████║████╗ ████║██║╚══██╔══╝    ██╔════╝╚══██╔══╝██╔══██╗██╔════╝██╔══██╗██║ ██╔╝
-██║     ██║   ██║██╔████╔██║██╔████╔██║██║   ██║       ███████╗   ██║   ██████╔╝█████╗  ███████║█████╔╝ 
-██║     ██║   ██║██║╚██╔╝██║██║╚██╔╝██║██║   ██║       ╚════██║   ██║   ██╔══██╗██╔══╝  ██╔══██║██╔═██╗ 
-╚██████╗╚██████╔╝██║ ╚═╝ ██║██║ ╚═╝ ██║██║   ██║       ███████║   ██║   ██║  ██║███████╗██║  ██║██║  ██╗
-╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝╚═╝   ╚═╝       ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBitty&layout=compact&hide_border=true&title_color=2E4053&text_color=34495E&bg_color=F8F9F9" alt="Top Languages" />
 </div>
 </td>
 </tr>
+</table>
 
 ## Development Approach
-```
-██████╗ ██████╗ ██████╗ ███████╗    ██████╗ ██╗  ██╗██╗██╗      ██████╗ ███████╗ ██████╗ ██████╗ ██╗  ██╗██╗   ██╗
-██╔════╝██╔═══██╗██╔══██╗██╔════╝    ██╔══██╗██║  ██║██║██║     ██╔═══██╗██╔════╝██╔═══██╗██╔══██╗██║  ██║╚██╗ ██╔╝
-██║     ██║   ██║██║  ██║█████╗      ██████╔╝███████║██║██║     ██║   ██║███████╗██║   ██║██████╔╝███████║ ╚████╔╝ 
-██║     ██║   ██║██║  ██║██╔══╝      ██╔═══╝ ██╔══██║██║██║     ██║   ██║╚════██║██║   ██║██╔═══╝ ██╔══██║  ╚██╔╝  
-╚██████╗╚██████╔╝██████╔╝███████╗    ██║     ██║  ██║██║███████╗╚██████╔╝███████║╚██████╔╝██║     ██║  ██║   ██║   
-╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝    ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝ ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝     ╚═╝  ╚═╝   ╚═╝   
-```
 
 My tool development methodology focuses on:
 - Creating purpose-built solutions for specific red team objectives
@@ -129,14 +86,6 @@ My tool development methodology focuses on:
 - Developing lightweight, efficient tools with minimal dependencies
 
 ## Areas of Interest
-```
-█████╗ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗ ██████╗███████╗██████╗     ███████╗███████╗ ██████╗██╗   ██╗██████╗ ██╗████████╗██╗   ██╗
-██╔══██╗██╔══██╗██║   ██║██╔══██╗████╗  ██║██╔════╝██╔════╝██╔══██╗    ██╔════╝██╔════╝██╔════╝██║   ██║██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝
-███████║██║  ██║██║   ██║███████║██╔██╗ ██║██║     █████╗  ██║  ██║    ███████╗█████╗  ██║     ██║   ██║██████╔╝██║   ██║    ╚████╔╝ 
-██╔══██║██║  ██║╚██╗ ██╔╝██╔══██║██║╚██╗██║██║     ██╔══╝  ██║  ██║    ╚════██║██╔══╝  ██║     ██║   ██║██╔══██╗██║   ██║     ╚██╔╝  
-██║  ██║██████╔╝ ╚████╔╝ ██║  ██║██║ ╚████║╚██████╗███████╗██████╔╝    ███████║███████╗╚██████╗╚██████╔╝██║  ██║██║   ██║      ██║   
-╚═╝  ╚═╝╚═════╝   ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝╚═════╝     ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝   
-```
 
 - Custom exploitation frameworks
 - Post-exploitation tool development
@@ -151,4 +100,8 @@ My tool development methodology focuses on:
 
 <div align="center">
 <br>
+
+[![Twitter: TheBitty](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TheBitty)
+[![LinkedIn: TheBitty](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TheBitty)
+[![GitHub: TheBitty](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/TheBitty)
 </div>

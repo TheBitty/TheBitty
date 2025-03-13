@@ -89,11 +89,13 @@ I develop specialized security tools for red team operations, focusing on creati
 - **Binary Analysis** — Reverse engineering applications to identify security weaknesses
 - **Red Team Utilities** — Building purpose-built tools that enhance red team capabilities
 </td>
+
 <td width="40%">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheBitty&show_icons=true&hide_border=true&title_color=2E4053&icon_color=5D6D7E&text_color=34495E&bg_color=F8F9F9" alt="GitHub Stats" />
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheBitty&theme=default&hide_border=true" alt="GitHub Streak" />
+
 
 ```
 ██████╗ ██████╗ ███╗   ███╗███╗   ███╗██╗████████╗    ███████╗████████╗██████╗ ███████╗ █████╗ ██╗  ██╗
@@ -150,8 +152,4 @@ My tool development methodology focuses on:
 
 <div align="center">
 <br>
-
-[![Twitter: TheBitty](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TheBitty)
-[![LinkedIn: TheBitty](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TheBitty)
-[![GitHub: TheBitty](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/TheBitty)
 </div>

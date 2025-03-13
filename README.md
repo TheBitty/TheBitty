@@ -46,10 +46,9 @@ I develop specialized security tools for red team operations, focusing on creati
 <tr>
 <td width="60%">
 
-## Current Projects
 ```
-█▀ █▀▀ █▀▀ █░█ █▀█ █ ▀█▀ █▄█   █▀█ █▀█ █▀█ ░░█ █▀▀ █▀▀ ▀█▀ █▀
-▄█ ██▄ █▄▄ █▄█ █▀▄ █ ░█░ ░█░   █▀▀ █▀▄ █▄█ █▄█ ██▄ █▄▄ ░█░ ▄█
+   █▀█ █▀█ █▀█ ░░█ █▀▀ █▀▀ ▀█▀ █▀
+   █▀▀ █▀▄ █▄█ █▄█ ██▄ █▄▄ ░█░ ▄█
 ```
 
 - **[GopherStrike](https://github.com/TheBitty/GopherStrike)** — Offensive security toolkit written in Go designed for red team operations with emphasis on evasion techniques

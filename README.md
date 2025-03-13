@@ -31,6 +31,11 @@
 
 ## Technical Stack
 ```
+▀█▀ █▀▀ █▀▀ █░█ █▄░█ █ █▀▀ ▄▀█ █░░   █▀ ▀█▀ ▄▀█ █▀▀ █▄▀
+░█░ ██▄ █▄▄ █▀█ █░▀█ █ █▄▄ █▀█ █▄▄   ▄█ ░█░ █▀█ █▄▄ █░█
+```
+
+```
 Development:  C/C++, Go, Python, Java, Assembly, Rust
 Focus:        Offensive Security Tools, Red Team Operations, Exploit Development
 ```
@@ -42,6 +47,10 @@ I develop specialized security tools for red team operations, focusing on creati
 <td width="60%">
 
 ## Current Projects
+```
+█▀ █▀▀ █▀▀ █░█ █▀█ █ ▀█▀ █▄█   █▀█ █▀█ █▀█ ░░█ █▀▀ █▀▀ ▀█▀ █▀
+▄█ ██▄ █▄▄ █▄█ █▀▄ █ ░█░ ░█░   █▀▀ █▀▄ █▄█ █▄█ ██▄ █▄▄ ░█░ ▄█
+```
 
 - **[GopherStrike](https://github.com/TheBitty/GopherStrike)** — Offensive security toolkit written in Go designed for red team operations with emphasis on evasion techniques
   
@@ -58,6 +67,10 @@ I develop specialized security tools for red team operations, focusing on creati
 - **[KairosAlgo](https://github.com/TheBitty/KairosAlgo)** — Leverages temporal mathematics to make trading decisions based on the time-decaying significance of market events
 
 ## Technical Focus
+```
+█▀█ █▀▀ █▀▀ █▀▀ █▄░█ █▀ █ █░█ █▀▀   █▀ █▀▀ █▀▀ █░█ █▀█ █ ▀█▀ █▄█
+█▄█ █▀░ █▀░ ██▄ █░▀█ ▄█ █ ▀▄▀ ██▄   ▄█ ██▄ █▄▄ █▄█ █▀▄ █ ░█░ ░█░
+```
 
 - **Offensive Tool Development** — Creating specialized software for security testing and evaluation
 - **Exploit Research** — Exploring vulnerability patterns and exploitation techniques
@@ -78,6 +91,10 @@ I develop specialized security tools for red team operations, focusing on creati
 </table>
 
 ## Development Approach
+```
+█▀▄ █▀▀ █░█ █▀▀ █░░ █▀█ █▀█ █▀▄▀█ █▀▀ █▄░█ ▀█▀   █▀▄▀█ █▀▀ ▀█▀ █░█ █▀█ █▀▄
+█▄▀ ██▄ ▀▄▀ ██▄ █▄▄ █▄█ █▀▀ █░▀░█ ██▄ █░▀█ ░█░   █░▀░█ ██▄ ░█░ █▀█ █▄█ █▄▀
+```
 
 My tool development methodology focuses on:
 - Creating purpose-built solutions for specific red team objectives
@@ -86,6 +103,10 @@ My tool development methodology focuses on:
 - Developing lightweight, efficient tools with minimal dependencies
 
 ## Areas of Interest
+```
+▄▀█ █▀█ █▀▀ ▄▀█ █▀   █▀█ █▀▀   █ █▄░█ ▀█▀ █▀▀ █▀█ █▀▀ █▀ ▀█▀
+█▀█ █▀▄ ██▄ █▀█ ▄█   █▄█ █▀░   █ █░▀█ ░█░ ██▄ █▀▄ ██▄ ▄█ ░█░
+```
 
 - Custom exploitation frameworks
 - Post-exploitation tool development
